@@ -1,0 +1,10 @@
+{
+  "jwtPrivateKey": "unsecureKey",
+  "atlas": {
+    "url": "mongodb+srv://root:toor@cluster0-2fo6d.mongodb.net",
+    "dbName": "TodoListDB"
+  },
+  // "atlas": "mongodb+srv://root:toor@cluster0-2fo6d.mongodb.net/test?retryWrites=true&w=majority",
+  "port": "8000",
+  "requiresAuth": false
+}
